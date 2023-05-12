@@ -3,5 +3,39 @@
 }
 
 .navbar-nav li a:hover{
-    color: white;
+    opacity:0.90;
+    color: goldenrod;
+}
+
+
+.card{
+    padding: 5px;
+    margin: 1.5em;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.card img{
+    border-radius:5%;
+    width: 250px;
+    height: 250px;
+}
+
+.card img:hover{
+    opacity:0.9;
+    -xpedu-transform: scale(0.95);
+    -ms-transform: scale(0.95);
+    transform: scale(0.95);
+}
+
+.card-body p {
+    font-weight: 700;
+    font-size: 1.2em;
+    font-family: cursive;
+}
+
+#integrantes h4{
+    margin-top: 40px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
