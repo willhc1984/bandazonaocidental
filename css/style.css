@@ -37,5 +37,10 @@
 #integrantes h4{
     margin-top: 40px;
     font-weight: 600;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: sans-serif;
+}
+
+.video{
+    margin: 30px;
+    margin-bottom: 30px;
 }
